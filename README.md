@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aklavya Pathak</h1>
-<h3 align="center">I am an ambitious developer who love to take new challenges and develop out of the box softwares utilizing new technologies</h3>
+<h3 align="center">I am an ambitious developer and a Cybersecurity Enthusiast who love to take new challenges and develop out of the box softwares utilizing new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aklavya20&label=Profile%20views&color=0e75b6&style=flat" alt="aklavya20" /> </p>
 
